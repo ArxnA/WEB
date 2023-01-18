@@ -31,7 +31,6 @@ html{
     box-shadow: 0px 0px 50px #000000;
     margin-top: 5px;
     transition: 0.5s;
-    cursor: pointer;
 }
 .c{
     height: 40px;
@@ -43,7 +42,7 @@ html{
     box-shadow: 0px 0px 50px #000000;
     margin-top: 5px;
     transition: 0.5s;
-    cursor: pointer;
+
 
 }
 .d{
@@ -85,7 +84,7 @@ html{
     width: 40px;
     border-radius:50px;
     margin: auto;
-    margin-left: 20px;
+    margin-left: -10px;
     box-shadow: 0px 0px 50px #000000;
     margin-top: 5px;
     transition: 0.5s;
@@ -96,7 +95,7 @@ html{
 ul{
     margin-left: 0px;
     padding-top: 0px;
-    margin-left: -5px;
+    margin-left: 0px;
 }
 li{
     display: inline-block;
@@ -108,7 +107,8 @@ li{
     margin: auto;
     font-size: 18px;
     margin-top: 0px;
-    margin-left: 20px;
+    margin-left: 10px;
+    margin-right: 19px;
  }
  .b1{
     font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande","Lucida Sans Unicode", Geneva, Verdana, sans-serif;
@@ -126,4 +126,13 @@ li{
     size: 13px;
     padding-top: 11px;
     padding-left: 18px;
+ }
+ .q{
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande","Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+    color: #ffffff;
+    margin: auto;
+    font-size: 17px;
+    padding-top: 9px;
+    padding-left: 15px;
+    margin-left: 70px;
  }
